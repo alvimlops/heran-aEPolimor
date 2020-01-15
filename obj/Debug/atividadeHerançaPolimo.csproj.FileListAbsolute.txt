@@ -1,0 +1,7 @@
+C:\Users\alvaro.rodrigues\source\repos\atividadeHerançaPolimo\atividadeHerançaPolimo\bin\Debug\atividadeHerançaPolimo.exe.config
+C:\Users\alvaro.rodrigues\source\repos\atividadeHerançaPolimo\atividadeHerançaPolimo\bin\Debug\atividadeHerançaPolimo.exe
+C:\Users\alvaro.rodrigues\source\repos\atividadeHerançaPolimo\atividadeHerançaPolimo\bin\Debug\atividadeHerançaPolimo.pdb
+C:\Users\alvaro.rodrigues\source\repos\atividadeHerançaPolimo\atividadeHerançaPolimo\obj\Debug\atividadeHerançaPolimo.csprojAssemblyReference.cache
+C:\Users\alvaro.rodrigues\source\repos\atividadeHerançaPolimo\atividadeHerançaPolimo\obj\Debug\atividadeHerançaPolimo.csproj.CoreCompileInputs.cache
+C:\Users\alvaro.rodrigues\source\repos\atividadeHerançaPolimo\atividadeHerançaPolimo\obj\Debug\atividadeHerançaPolimo.exe
+C:\Users\alvaro.rodrigues\source\repos\atividadeHerançaPolimo\atividadeHerançaPolimo\obj\Debug\atividadeHerançaPolimo.pdb
